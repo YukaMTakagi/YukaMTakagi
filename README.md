@@ -1,12 +1,11 @@
-## Hi there 👋
+# Yuka M. Takagi
+Production IT Engineer 
 
-<!--
-**YukaMTakagi/YukaMTakagi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Production IT Engineer with a background in maintaining and improving critical systems in aviation maintenance environments.
+I focus on building reliable, automated solutions, improving operational efficiency, and enabling teams with practical tooling and documentation.
 
-Here are some ideas to get you started:
+## Education & Certifications
+- Masters degree on Informatics Engeneering, Polytechnic Institute of Viseu, 2025
+- Master thesis on Security and Privacy Framework for a Cloud Native Platform, grade 16/20
 
-- ✈ I’m currently working as a Production IT Engineer for Lufthansa Technik Portugal.
-- 💬 I’m currently learning more about github.
-- 👯 I’m looking to collaborate on projects.
-- ⚡ Fun fact: I still play Pokemon Go.
--->
+
